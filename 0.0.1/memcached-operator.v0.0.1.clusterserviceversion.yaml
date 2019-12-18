@@ -50,9 +50,7 @@ spec:
   links:
     - name: Dinechcherry
       url: 'https://github.com/janepelladinesh/memcached-operators'
-  icon:
-    - base64data: ''
-      mediatype: ''
+  
   customresourcedefinitions:
     owned:
       - name: memcacheds.cache.example.com
